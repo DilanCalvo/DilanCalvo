@@ -2,7 +2,7 @@
   
 # 👨‍💻 Dilan Calvo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack+Junior;Especializado+en+Backend;Explorando+IA+%26+Machine+Learning;Aprendizaje+Continuo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Programador+Junior;Especializado+en+Backend;Explorando+IA+%26+Machine+Learning;Aprendizaje+Continuo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -105,16 +105,6 @@ print("🚀 En constante evolución...")
 </div>
 
 ---
-
-## 💡 Filosofía de Desarrollo
-
-<div align="center">
-
-> ### *"El código es poesía en movimiento"*
-> 
-> 💪 **Disciplina** del gimnasio + 💻 **Pasión** por programar = 🚀 **Crecimiento constante**
-
-</div>
 
 <div align="center">
 
