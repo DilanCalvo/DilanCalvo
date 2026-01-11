@@ -2,50 +2,50 @@
   
 # 👨‍💻 Dilan Calvo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Programador+Junior;Especializado+en+Backend;Explorando+IA+%26+Machine+Learning;Aprendizaje+Continuo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Junior+Programmer;Backend+Specialist;Exploring+AI+%26+Machine+Learning;Continuous+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
 ```python
 class Dilan:
     def __init__(self):
         self.username = "Dilan Calvo"
-        self.role = "Estudiante de Programación"
-        self.education = "Colegio Técnico - Desarrollo Web"
-        self.current_focus = ["Backend Development", "Machine Learning", "IA"]
-        self.learning = ["Django", "Python ML Libraries", "Algoritmos"]
-        self.hobbies = ["Programación", "Gimnasio 💪", "Aprendizaje autodidacta"]
+        self.role = "Programming Student"
+        self.education = "Technical High School - Web Development"
+        self.current_focus = ["Backend Development", "Machine Learning", "AI"]
+        self.learning = ["Django", "Python ML Libraries", "Algorithms"]
+        self.hobbies = ["Programming", "Gym 💪", "Self-learning"]
         
     def say_hi(self):
-        print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar y aprender.")
+        print("Thanks for visiting my profile! Always open to collaborate and learn.")
 
 me = Dilan()
 me.say_hi()
 ```
 
-### 💡 Un poco más sobre mí:
-- 🎓 **Estudiante técnico** enfocado en desarrollo web
-- 💻 **Apasionado por el backend** con Django y Python
-- 🤖 **Explorando IA/ML** - El futuro de la tecnología
-- 🏋️ **Fitness enthusiast** - Código limpio y cuerpo sano
-- 📚 **Autodidacta de corazón** - Me encanta aprender de todo
+### 💡 More about me:
+- 🎓 **Technical student** focused on web development
+- 💻 **Passionate about backend** with Django and Python
+- 🤖 **Exploring AI/ML** - The future of technology
+- 🏋️ **Fitness enthusiast** - Clean code and healthy body
+- 📚 **Self-taught at heart** - I love learning everything
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks y Herramientas
+### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -66,57 +66,46 @@ me.say_hi()
 
 ---
 
-## 🎯 Actualmente aprendiendo
+## 🎯 Currently Learning
 
 <div align="center">
 
 ```python
 learning_path = {
-    "2024-2025": {
+    "focus_areas": {
         "Backend": ["Django", "REST APIs", "Databases"],
         "AI/ML": ["Machine Learning", "Data Science", "Python Libraries"],
         "Soft_Skills": ["Problem Solving", "Clean Code", "Git Workflow"]
     },
-    "next_goals": [
-        "Dominar Django Framework",
-        "Crear proyectos de ML",
-        "Contribuir a Open Source"
-    ]
+    "philosophy": "Learn something new every day 📚",
+    "status": "Always evolving 🚀"
 }
-
-print("🚀 En constante evolución...")
 ```
 
 </div>
 
 ---
 
-## 🏆 Logros y Objetivos
+## 🌟 What Drives Me
 
 <div align="center">
 
-| 🎯 Meta | 📊 Estado | 💪 Próximo Paso |
-|---------|-----------|-----------------|
-| Dominar Backend | 🟢 En progreso | APIs avanzadas |
-| Machine Learning | 🟡 Aprendiendo | Proyectos prácticos |
-| Portfolio GitHub | 🟢 Activo | Más proyectos |
-| Open Source | 🔴 Pendiente | Primera contribución |
+```python
+mindset = {
+    "approach": "Self-taught and discipline-driven",
+    "balance": "💪 Gym discipline + 💻 Coding passion = 🚀 Constant growth",
+    "values": ["Autodidact", "Perseverant", "Curious", "Evolving"],
+    "motto": "Code is poetry in motion"
+}
+```
+
+### **Self-learner** 📚 | **Perseverant** 💪 | **Curious** 🔍 | **Always Evolving** 🚀
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🌟 Valores que me definen
-
-**Autodidacta** 📚 | **Perseverante** 💪 | **Curioso** 🔍 | **En evolución** 🚀
-
-</div>
-
----
-
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 
 <div align="center">
   
@@ -128,7 +117,7 @@ print("🚀 En constante evolución...")
 
 <div align="center">
   
-  ### 💭 *"El código es poesía en movimiento"*
+  ### 💭 *"Code is poetry in motion"*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=DilanCalvo&color=blueviolet&style=for-the-badge)
   
