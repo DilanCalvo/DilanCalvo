@@ -1,16 +1,38 @@
-# 👋 ¡Hola! Soy Dilan Calvo
-
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudiante+de+Desarrollo+Web;Apasionado+por+la+Programaci%C3%B3n;Backend+Developer+en+formaci%C3%B3n;Explorando+IA+y+Machine+Learning)
-  
+# 👨‍💻 Dilan Calvo
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack+Junior;Especializado+en+Backend;Explorando+IA+%26+Machine+Learning;Aprendizaje+Continuo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ## 🚀 Sobre mí
 
-Soy estudiante de un colegio técnico en Desarrollo Web, enfocado en convertirme en un desarrollador backend sólido. Me caracterizo por ser **autodidacta** y tener una curiosidad insaciable por aprender nuevas tecnologías. Cuando no estoy programando, probablemente me encuentres en el gimnasio 💪
+```python
+class Dilan:
+    def __init__(self):
+        self.username = "Dilan Calvo"
+        self.role = "Estudiante de Programación"
+        self.education = "Colegio Técnico - Desarrollo Web"
+        self.current_focus = ["Backend Development", "Machine Learning", "IA"]
+        self.learning = ["Django", "Python ML Libraries", "Algoritmos"]
+        self.hobbies = ["Programación", "Gimnasio 💪", "Aprendizaje autodidacta"]
+        
+    def say_hi(self):
+        print("¡Gracias por visitar mi perfil! Siempre abierto a colaborar y aprender.")
 
-Actualmente estoy profundizando en **Django** para backend y explorando el fascinante mundo de la **Inteligencia Artificial** y **Machine Learning**.
+me = Dilan()
+me.say_hi()
+```
+
+### 💡 Un poco más sobre mí:
+- 🎓 **Estudiante técnico** enfocado en desarrollo web
+- 💻 **Apasionado por el backend** con Django y Python
+- 🤖 **Explorando IA/ML** - El futuro de la tecnología
+- 🏋️ **Fitness enthusiast** - Código limpio y cuerpo sano
+- 📚 **Autodidacta de corazón** - Me encanta aprender de todo
 
 ---
 
@@ -35,9 +57,10 @@ Actualmente estoy profundizando en **Django** para backend y explorando el fasci
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilanCC12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilanCalvo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanCalvo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilanCC12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilanCalvo&theme=tokyonight&hide_border=true&background=0D1117)
   
 </div>
 
@@ -45,23 +68,61 @@ Actualmente estoy profundizando en **Django** para backend y explorando el fasci
 
 ## 🎯 Actualmente aprendiendo
 
+<div align="center">
+
 ```python
-current_focus = {
-    "backend": "Django Framework",
-    "ai_ml": "Machine Learning & IA",
-    "goal": "Convertirme en desarrollador backend profesional y machine learning",
-    "mindset": "Aprendizaje constante 📚"
+learning_path = {
+    "2024-2025": {
+        "Backend": ["Django", "REST APIs", "Databases"],
+        "AI/ML": ["Machine Learning", "Data Science", "Python Libraries"],
+        "Soft_Skills": ["Problem Solving", "Clean Code", "Git Workflow"]
+    },
+    "next_goals": [
+        "Dominar Django Framework",
+        "Crear proyectos de ML",
+        "Contribuir a Open Source"
+    ]
 }
+
+print("🚀 En constante evolución...")
 ```
+
+</div>
 
 ---
 
-## 💡 Datos curiosos
+## 🏆 Logros y Objetivos
 
-- 🏋️ **Fitness enthusiast** - El gimnasio es mi segunda casa
-- 📚 **Autodidacta** - Me encanta aprender de todo
-- 🎯 **Enfoque actual** - Backend development y ML
-- 🌱 **Siempre creciendo** - Cada día es una oportunidad para mejorar
+<div align="center">
+
+| 🎯 Meta | 📊 Estado | 💪 Próximo Paso |
+|---------|-----------|-----------------|
+| Dominar Backend | 🟢 En progreso | APIs avanzadas |
+| Machine Learning | 🟡 Aprendiendo | Proyectos prácticos |
+| Portfolio GitHub | 🟢 Activo | Más proyectos |
+| Open Source | 🔴 Pendiente | Primera contribución |
+
+</div>
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+<div align="center">
+
+> ### *"El código es poesía en movimiento"*
+> 
+> 💪 **Disciplina** del gimnasio + 💻 **Pasión** por programar = 🚀 **Crecimiento constante**
+
+</div>
+
+<div align="center">
+
+### 🌟 Valores que me definen
+
+**Autodidacta** 📚 | **Perseverante** 💪 | **Curioso** 🔍 | **En evolución** 🚀
+
+</div>
 
 ---
 
