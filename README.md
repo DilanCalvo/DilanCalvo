@@ -53,15 +53,26 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Development Focus
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilanCalvo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanCalvo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilanCalvo&theme=tokyonight&hide_border=true&background=0D1117)
-  
+
+```python
+development_areas = {
+    "primary": {
+        "backend": ["Django", "REST APIs", "Database Design"],
+        "languages": ["Python", "JavaScript", "SQL"]
+    },
+    "exploring": {
+        "ai_ml": ["Machine Learning", "Data Analysis"],
+        "tools": ["Git", "VS Code", "Jupyter Notebooks"]
+    },
+    "building": "Real-world projects to solve real problems"
+}
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanCalvo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
 </div>
 
 ---
