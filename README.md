@@ -45,11 +45,27 @@ me.say_hi()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Data Science & Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 ### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -59,16 +75,23 @@ me.say_hi()
 
 ```python
 development_areas = {
-    "primary": {
-        "backend": ["Django", "REST APIs", "Database Design"],
-        "languages": ["Python", "JavaScript", "SQL"]
+    "core_foundations": {
+        "programming": ["Python", "Data Structures", "Algorithms"],
+        "math_for_ai": ["Linear Algebra", "Probability", "Statistics"],
+        "software_engineering": ["Git", "REST APIs", "Database Design"]
     },
-    "exploring": {
-        "ai_ml": ["Machine Learning", "Data Analysis"],
-        "tools": ["Git", "VS Code", "Jupyter Notebooks"]
+    "machine_learning": {
+        "supervised_learning": ["Regression", "Classification"],
+        "unsupervised_learning": ["Clustering", "Dimensionality Reduction"],
+        "tools": ["Scikit-Learn", "Pandas", "NumPy", "Matplotlib"]
     },
-    "building": "Real-world projects to solve real problems"
+    "deep_learning": {
+        "neural_networks": ["ANN", "CNN", "RNN"],
+        "frameworks": ["TensorFlow", "Keras"]
+    },
+    "current_focus": "Building real-world AI systems with solid theoretical foundations"
 }
+
 ```
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanCalvo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
