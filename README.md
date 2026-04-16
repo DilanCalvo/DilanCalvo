@@ -1,158 +1,195 @@
 <div align="center">
-  
-# 👨‍💻 Dilan Calvo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Junior+Programmer;Backend+Specialist;Exploring+AI+%26+Machine+Learning;Continuous+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- DYNAMIC HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dilan+Calvo.;Backend+Engineer+%7C+AI+Explorer.;Building+systems+that+scale.;Training+models+that+learn.)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+**`Backend Developer & Aspiring AI Engineer`** · Costa Rica 🇨🇷
+
+*Always learning new things.*
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cc_ds_09)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dilan.calvocabezas@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DilanCalvo&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-## 🚀 About Me
+---
+
+## `> whoami`
 
 ```python
-class Dilan:
-    def __init__(self):
-        self.username = "Dilan Calvo"
-        self.role = "Programming Student"
-        self.education = "Technical High School - Web Development"
-        self.current_focus = ["Backend Development", "Machine Learning", "AI"]
-        self.learning = ["Django", "Python ML Libraries", "Algorithms"]
-        self.hobbies = ["Programming", "Gym 💪", "Self-learning"]
-        
-    def say_hi(self):
-        print("Thanks for visiting my profile! Always open to collaborate and learn.")
+class DilanCalvo:
+    role        = "Backend Developer & AI Engineering Candidate"
+    location    = "Costa Rica 🇨🇷"
+    education   = "Technical Degree in Web Development (11th Grade)"
+    languages   = ["Spanish (Native)", "English (Medium)"]
 
-me = Dilan()
-me.say_hi()
+    currently_learning = ["Golang", "ML and DL Learner", "Django", "React"]
+
+    def available_for(self):
+        return ["Backend Collaborations", "Open Source", "AI/ML Projects", "Remote Opportunities", "Make Friends"]
 ```
-
-### 💡 More about me:
-- 🎓 **Technical student** focused on web development
-- 💻 **Passionate about backend** with Django and Python
-- 🤖 **Exploring AI/ML** - The future of technology
-- 🏋️ **Fitness enthusiast** - Clean code and healthy body
-- 📚 **Self-taught at heart** - I love learning everything
 
 ---
 
-## 🛠️ Technologies & Tools
+## `> system --status`
 
-### Languages
+| Signal | Status |
+|--------|--------|
+| 🟢 **Core Stack** | Django · Python · PostgreSQL · React |
+| 🔵 **Currently Mastering** | Golang |
+| 🟡 **AI Track** | IBM ML Professional Certificate (In Progress) |
+| 🟡 **Deep Learning** | Deep Learning Specialization (In Progress) |
+| ⚪ **Open To** | Collaborations · Internships · Remote Work |
+
+---
+
+## `> ls ./the-lab` — Engineering Solutions
+
+<details>
+<summary><b>🤖 Hand Tracker — Computer Vision Interface</b></summary>
+
+> **The problem:** Traditional input interfaces have physical limitations. Human-computer interaction should be natural and touchless.
+
+> **The solution:** A real-time hand tracking system using computer vision that translates gestures into actionable system inputs — no hardware required beyond a webcam.
+
+**Technical depth:**
+- MediaPipe landmark detection with custom gesture mapping
+- Sub-50ms inference latency on CPU
+- Modular architecture for gesture plugin extensions
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📰 Fake News Detector — LSTM NLP Model</b></summary>
+
+> **The problem:** Misinformation spreads faster than fact-checking. Manual verification doesn't scale.
+
+> **The solution:** A deep learning classifier using LSTM networks trained on news corpora to distinguish reliable reporting from misinformation — with interpretable confidence scores.
+
+**Model details:**
+- LSTM architecture with attention mechanism
+- Text preprocessing pipeline: tokenization → embedding → sequence padding
+- Binary classification with confidence output
+- Trained on labeled news datasets
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</details>
+
+---
+
+## `> cat skills.config`
+
+### ⚙️ Core Engine — Backend & Systems
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧠 Neural Networks & Data — AI/ML Stack
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🎨 Frontend Logic — UI Layer
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 💻 Development Focus
+## `> cat certifications.log`
 
-<div align="center">
+| Status | Certification | Issuer | Track |
+|--------|--------------|--------|-------|
+| 🔄 In Progress | Machine Learning Professional Certificate | IBM / Coursera | AI Engineering |
+| 🔄 Waiting | Deep Learning Specialization | DeepLearning.AI / Coursera | Neural Networks |
+| 🔄 In Progress | Technical Degree — Web Development | COTEPECOS | Foundation |
 
-```python
-development_areas = {
-    "core_foundations": {
-        "programming": ["Python", "Data Structures", "Algorithms"],
-        "math_for_ai": ["Linear Algebra", "Probability", "Statistics"],
-        "software_engineering": ["Git", "REST APIs", "Database Design"]
-    },
-    "machine_learning": {
-        "supervised_learning": ["Regression", "Classification"],
-        "unsupervised_learning": ["Clustering", "Dimensionality Reduction"],
-        "tools": ["Scikit-Learn", "Pandas", "NumPy", "Matplotlib"]
-    },
-    "deep_learning": {
-        "neural_networks": ["ANN", "CNN", "RNN"],
-        "frameworks": ["TensorFlow", "Keras"]
-    },
-    "current_focus": "Building real-world AI systems with solid theoretical foundations"
-}
+> *"Every model trained is a lesson in patience and precision."*
+
+---
+
+## `> neofetch --workstation`
 
 ```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanCalvo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-```python
-learning_path = {
-    "focus_areas": {
-        "Backend": ["Django", "REST APIs", "Databases"],
-        "AI/ML": ["Machine Learning", "Data Science", "Python Libraries"],
-        "Soft_Skills": ["Problem Solving", "Clean Code", "Git Workflow"]
-    },
-    "philosophy": "Learn something new every day 📚",
-    "status": "Always evolving 🚀"
-}
+         ██████████████████   Workstation: Custom Build
+       ████░░░░░░░░░░░░░░████  CPU: AMD Ryzen 7 8700G (8C/16T @ 4.2GHz)
+      ██░░░░░░░░░░░░░░░░░░░░██ GPU: AMD Radeon 780M (Integrated)
+     ██░░░░░░░░░░░░░░░░░░░░░░██ RAM: 16GB DDR5
+     ██░░░░     ░░░░░░░     ░░██ OS:  Dual Boot — Windows 11 / Ubuntu
+     ██░░░░     ░░░░░░░     ░░██ IDE: VS Code + Vim keybindings
+      ██░░░░░░░░░░░░░░░░░░░░██  Shell: Zsh + Oh My Zsh
+       ████░░░░░░░░░░░░░░████   Theme: Dark (always)
+         ██████████████████
 ```
 
+---
+
+## `> git log --graph`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilanCalvo&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+
 </div>
 
 ---
 
-## 🌟 What Drives Me
+## `> echo $PHILOSOPHY`
 
-<div align="center">
+```
+> "I don't build things because I know how.
+   I build things to find out.
 
-```python
-mindset = {
-    "approach": "Self-taught and discipline-driven",
-    "balance": "💪 Gym discipline + 💻 Coding passion = 🚀 Constant growth",
-    "values": ["Autodidact", "Perseverant", "Curious", "Evolving"],
-    "motto": "Code is poetry in motion"
-}
+   Every new language is a new way of thinking.
+   Every unfamiliar problem is an invitation.
+   The discomfort of not knowing yet
+   is exactly where the growth lives."
+
+                                          — Dilan Calvo, CR 🇨🇷
 ```
 
-### **Self-learner** 📚 | **Perseverant** 💪 | **Curious** 🔍 | **Always Evolving** 🚀
-
-</div>
-
 ---
 
-## 📫 Connect With Me
+## `> ./contact --open`
 
 <div align="center">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cc_ds_09/)
-  
-</div>
 
----
+**Looking to build something meaningful together?**
 
-<div align="center">
-  
-  ### 💭 *"Code is poetry in motion"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=DilanCalvo&color=blueviolet&style=for-the-badge)
-  
+I'm open to backend collaborations, AI/ML projects, and remote engineering roles.
+*Fluent in English and Spanish — comfortable in both technical and business contexts.*
+
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilan.calvocabezas@gmail.com)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cc_ds_09)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*Built with intent. Deployed with precision.*
+
 </div>
