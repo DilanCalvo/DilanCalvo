@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dilan+Calvo.;Backend+Engineer+%7C+AI+Explorer.;Building+systems+that+scale.;Training+models+that+learn.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dilan+Calvo.;Backend+Aspirate+%7C+AI+Explorer.;Building+systems+that+scale.;Training+models+that+learn.)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 **`Backend Developer & Aspiring AI Engineer`** · Costa Rica 🇨🇷
 
-*Always learning new things.*
+*Always learning new stuff.*
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cc_ds_09)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dilan.calvocabezas@gmail.com)
@@ -24,10 +24,10 @@
 class DilanCalvo:
     role        = "Backend Developer & AI Engineering Candidate"
     location    = "Costa Rica 🇨🇷"
-    education   = "Technical Degree in Web Development (11th Grade)"
+    education   = "Technical Degree in Web Development"
     languages   = ["Spanish (Native)", "English (Medium)"]
 
-    currently_learning = ["Golang", "ML and DL Learner", "Django", "React"]
+    currently_learning = ["Golang", "ML and DL Learner", "Django", "Docker"]
 
     def available_for(self):
         return ["Backend Collaborations", "Open Source", "AI/ML Projects", "Remote Opportunities", "Make Friends"]
@@ -40,7 +40,7 @@ class DilanCalvo:
 | Signal | Status |
 |--------|--------|
 | 🟢 **Core Stack** | Django · Python · PostgreSQL · React |
-| 🔵 **Currently Mastering** | Golang |
+| 🔵 **Currently Mastering** | Golang · ML|
 | 🟡 **AI Track** | IBM ML Professional Certificate (In Progress) |
 | 🟡 **Deep Learning** | Deep Learning Specialization (In Progress) |
 | ⚪ **Open To** | Collaborations · Internships · Remote Work |
@@ -50,7 +50,7 @@ class DilanCalvo:
 ## `> ls ./the-lab` — Engineering Solutions
 
 <details>
-<summary><b>🤖 Hand Tracker — Computer Vision Interface</b></summary>
+<summary><b>Hand Tracker — Computer Vision Interface</b></summary>
 
 > **The problem:** Traditional input interfaces have physical limitations. Human-computer interaction should be natural and touchless.
 
@@ -68,7 +68,7 @@ class DilanCalvo:
 </details>
 
 <details>
-<summary><b>📰 Fake News Detector — LSTM NLP Model</b></summary>
+<summary><b>Fake News Detector — LSTM NLP Model</b></summary>
 
 > **The problem:** Misinformation spreads faster than fact-checking. Manual verification doesn't scale.
 
@@ -91,7 +91,7 @@ class DilanCalvo:
 
 ## `> cat skills.config`
 
-### ⚙️ Core Engine — Backend & Systems
+###Core Engine — Backend & Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -102,7 +102,7 @@ class DilanCalvo:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧠 Neural Networks & Data — AI/ML Stack
+###Neural Networks & Data — AI/ML Stack
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -112,7 +112,7 @@ class DilanCalvo:
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🎨 Frontend Logic — UI Layer
+###Frontend Logic — UI Layer
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -130,8 +130,6 @@ class DilanCalvo:
 | 🔄 Waiting | Deep Learning Specialization | DeepLearning.AI / Coursera | Neural Networks |
 | 🔄 In Progress | Technical Degree — Web Development | COTEPECOS | Foundation |
 
-> *"Every model trained is a lesson in patience and precision."*
-
 ---
 
 ## `> neofetch --workstation`
@@ -141,10 +139,10 @@ class DilanCalvo:
        ████░░░░░░░░░░░░░░████  CPU: AMD Ryzen 7 8700G (8C/16T @ 4.2GHz)
       ██░░░░░░░░░░░░░░░░░░░░██ GPU: AMD Radeon 780M (Integrated)
      ██░░░░░░░░░░░░░░░░░░░░░░██ RAM: 16GB DDR5
-     ██░░░░     ░░░░░░░     ░░██ OS:  Dual Boot — Windows 11 / Ubuntu
-     ██░░░░     ░░░░░░░     ░░██ IDE: VS Code + Vim keybindings
-      ██░░░░░░░░░░░░░░░░░░░░██  Shell: Zsh + Oh My Zsh
-       ████░░░░░░░░░░░░░░████   Theme: Dark (always)
+     ██░░░░     ░░░░░░░     ░░██ OS:  Windows 11
+     ██░░░░     ░░░░░░░     ░░██ IDE: VS Code + GoLand
+      ██░░░░░░░░░░░░░░░░░░░░██  Theme: Dark (always)
+       ████░░░░░░░░░░░░░░████   
          ██████████████████
 ```
 
